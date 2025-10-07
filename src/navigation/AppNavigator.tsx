@@ -51,7 +51,7 @@ export default function AppNavigator() {
           backgroundColor: '#fff',
           borderTopWidth: 0,
           elevation: 5,
-          height: 60 + insets.bottom, // 👈 add bottom inset
+          height: 60 + insets.bottom,
           paddingBottom: insets.bottom > 0 ? insets.bottom : 6,
         },
       })}>
